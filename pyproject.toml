@@ -35,7 +35,7 @@ classifiers = [
 dependencies = [
     'lxml',
     'dawg2',
-    'rnnmorph @ git+https://github.com/bond005/rnnmorph.git',
+    'rnnmorph @ git+https://github.com/IlyaGusev/rnnmorph.git',
 ]
 
 [tool.hatch.build.targets.wheel]

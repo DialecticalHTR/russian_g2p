@@ -1,3 +1,3 @@
 lxml
 dawg2
-git+https://github.com/bond005/rnnmorph.git
+git+https://github.com/IlyaGusev/rnnmorph.git
