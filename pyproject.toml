@@ -34,7 +34,7 @@ classifiers = [
 ]
 dependencies = [
     'lxml',
-    'dawg',
+    'dawg2',
     'rnnmorph @ git+https://github.com/bond005/rnnmorph.git',
 ]
 
